@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\Faks\AISP\1DZ\bin\Debug\net7.0\1DZ.exe
+C:\Users\Ivan\Desktop\Faks\AISP\1DZ\bin\Debug\net7.0\1DZ.deps.json
+C:\Users\Ivan\Desktop\Faks\AISP\1DZ\bin\Debug\net7.0\1DZ.runtimeconfig.json
+C:\Users\Ivan\Desktop\Faks\AISP\1DZ\bin\Debug\net7.0\1DZ.dll
+C:\Users\Ivan\Desktop\Faks\AISP\1DZ\bin\Debug\net7.0\1DZ.pdb
+C:\Users\Ivan\Desktop\Faks\AISP\1DZ\obj\Debug\net7.0\1DZ.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\Faks\AISP\1DZ\obj\Debug\net7.0\1DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Faks\AISP\1DZ\obj\Debug\net7.0\1DZ.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Faks\AISP\1DZ\obj\Debug\net7.0\1DZ.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\Faks\AISP\1DZ\obj\Debug\net7.0\1DZ.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Faks\AISP\1DZ\obj\Debug\net7.0\1DZ.dll
+C:\Users\Ivan\Desktop\Faks\AISP\1DZ\obj\Debug\net7.0\refint\1DZ.dll
+C:\Users\Ivan\Desktop\Faks\AISP\1DZ\obj\Debug\net7.0\1DZ.pdb
+C:\Users\Ivan\Desktop\Faks\AISP\1DZ\obj\Debug\net7.0\1DZ.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\Faks\AISP\1DZ\obj\Debug\net7.0\ref\1DZ.dll
