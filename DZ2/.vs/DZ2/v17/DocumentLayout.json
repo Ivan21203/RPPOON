@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28906449-9BE3-4116-A731-7BEED6B7EE80}|DZ2.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz2\\z5r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28906449-9BE3-4116-A731-7BEED6B7EE80}|DZ2.csproj|solutionrelative:z5r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28906449-9BE3-4116-A731-7BEED6B7EE80}|DZ2.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz2\\z4r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28906449-9BE3-4116-A731-7BEED6B7EE80}|DZ2.csproj|solutionrelative:z4r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28906449-9BE3-4116-A731-7BEED6B7EE80}|DZ2.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz2\\z2r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28906449-9BE3-4116-A731-7BEED6B7EE80}|DZ2.csproj|solutionrelative:z2r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28906449-9BE3-4116-A731-7BEED6B7EE80}|DZ2.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz2\\z5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28906449-9BE3-4116-A731-7BEED6B7EE80}|DZ2.csproj|solutionrelative:z5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28906449-9BE3-4116-A731-7BEED6B7EE80}|DZ2.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz2\\z4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28906449-9BE3-4116-A731-7BEED6B7EE80}|DZ2.csproj|solutionrelative:z4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28906449-9BE3-4116-A731-7BEED6B7EE80}|DZ2.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz2\\z2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28906449-9BE3-4116-A731-7BEED6B7EE80}|DZ2.csproj|solutionrelative:z2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28906449-9BE3-4116-A731-7BEED6B7EE80}|DZ2.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28906449-9BE3-4116-A731-7BEED6B7EE80}|DZ2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Z5r.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ2\\Z5r.cs",
+              "RelativeDocumentMoniker": "Z5r.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ2\\Z5r.cs",
+              "RelativeToolTip": "Z5r.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wB8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:49:04.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Z4r.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ2\\Z4r.cs",
+              "RelativeDocumentMoniker": "Z4r.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ2\\Z4r.cs",
+              "RelativeToolTip": "Z4r.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAawBMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:48:47.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Z2r.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ2\\Z2r.cs",
+              "RelativeDocumentMoniker": "Z2r.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ2\\Z2r.cs",
+              "RelativeToolTip": "Z2r.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAhwBIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:42:25.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Z5.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ2\\Z5.cs",
+              "RelativeDocumentMoniker": "Z5.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ2\\Z5.cs",
+              "RelativeToolTip": "Z5.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:12:51.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Z4.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ2\\Z4.cs",
+              "RelativeDocumentMoniker": "Z4.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ2\\Z4.cs",
+              "RelativeToolTip": "Z4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:05:46.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Z2.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ2\\Z2.cs",
+              "RelativeDocumentMoniker": "Z2.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ2\\Z2.cs",
+              "RelativeToolTip": "Z2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:00:16.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:59:50.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

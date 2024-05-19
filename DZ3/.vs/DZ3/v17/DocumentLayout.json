@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz3\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|solutionrelative:abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz3\\firefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|solutionrelative:firefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz3\\waterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|solutionrelative:waterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz3\\firegoblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|solutionrelative:firegoblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz3\\watergoblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|solutionrelative:watergoblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz3\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|solutionrelative:goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz3\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|solutionrelative:wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz3\\firewizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|solutionrelative:firewizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz3\\waterwizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|solutionrelative:waterwizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72199C5E-F3A1-4E93-BDEB-E2AD5FAFD334}|DZ3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WaterFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\WaterFactory.cs",
+              "RelativeDocumentMoniker": "WaterFactory.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\WaterFactory.cs",
+              "RelativeToolTip": "WaterFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:54:32.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FireFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\FireFactory.cs",
+              "RelativeDocumentMoniker": "FireFactory.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\FireFactory.cs",
+              "RelativeToolTip": "FireFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:52:51.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AbstractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\AbstractFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\AbstractFactory.cs",
+              "RelativeToolTip": "AbstractFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:51:45.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WaterGoblin.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\WaterGoblin.cs",
+              "RelativeDocumentMoniker": "WaterGoblin.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\WaterGoblin.cs",
+              "RelativeToolTip": "WaterGoblin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:46:26.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FireGoblin.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\FireGoblin.cs",
+              "RelativeDocumentMoniker": "FireGoblin.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\FireGoblin.cs",
+              "RelativeToolTip": "FireGoblin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:45:41.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WaterWizard.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\WaterWizard.cs",
+              "RelativeDocumentMoniker": "WaterWizard.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\WaterWizard.cs",
+              "RelativeToolTip": "WaterWizard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:42:00.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FireWizard.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\FireWizard.cs",
+              "RelativeDocumentMoniker": "FireWizard.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\FireWizard.cs",
+              "RelativeToolTip": "FireWizard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:40:18.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Goblin.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\Goblin.cs",
+              "RelativeDocumentMoniker": "Goblin.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\Goblin.cs",
+              "RelativeToolTip": "Goblin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:38:50.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\Wizard.cs",
+              "RelativeDocumentMoniker": "Wizard.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\Wizard.cs",
+              "RelativeToolTip": "Wizard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:37:52.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:31:48.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

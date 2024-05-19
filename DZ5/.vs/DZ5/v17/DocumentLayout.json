@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{790FAF3F-BBAD-44F0-9CCC-6689094367D7}|DZ5.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz5\\coffeedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790FAF3F-BBAD-44F0-9CCC-6689094367D7}|DZ5.csproj|solutionrelative:coffeedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790FAF3F-BBAD-44F0-9CCC-6689094367D7}|DZ5.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz5\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790FAF3F-BBAD-44F0-9CCC-6689094367D7}|DZ5.csproj|solutionrelative:coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790FAF3F-BBAD-44F0-9CCC-6689094367D7}|DZ5.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz5\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790FAF3F-BBAD-44F0-9CCC-6689094367D7}|DZ5.csproj|solutionrelative:espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790FAF3F-BBAD-44F0-9CCC-6689094367D7}|DZ5.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz5\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790FAF3F-BBAD-44F0-9CCC-6689094367D7}|DZ5.csproj|solutionrelative:milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790FAF3F-BBAD-44F0-9CCC-6689094367D7}|DZ5.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz5\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790FAF3F-BBAD-44F0-9CCC-6689094367D7}|DZ5.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790FAF3F-BBAD-44F0-9CCC-6689094367D7}|DZ5.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790FAF3F-BBAD-44F0-9CCC-6689094367D7}|DZ5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ5\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ5\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAhwA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:32:47.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Milk.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ5\\Milk.cs",
+              "RelativeDocumentMoniker": "Milk.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ5\\Milk.cs",
+              "RelativeToolTip": "Milk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:32:12.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Espresso.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ5\\Espresso.cs",
+              "RelativeDocumentMoniker": "Espresso.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ5\\Espresso.cs",
+              "RelativeToolTip": "Espresso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:31:26.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ5\\Coffee.cs",
+              "RelativeDocumentMoniker": "Coffee.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ5\\Coffee.cs",
+              "RelativeToolTip": "Coffee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:30:24.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ5\\CoffeeDecorator.cs",
+              "RelativeDocumentMoniker": "CoffeeDecorator.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ5\\CoffeeDecorator.cs",
+              "RelativeToolTip": "CoffeeDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:29:34.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:28:57.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

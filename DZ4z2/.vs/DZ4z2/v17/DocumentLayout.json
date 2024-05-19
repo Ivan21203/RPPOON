@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ4z2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41EF8F7E-793C-4BC4-ADF4-2EACD595B87C}|DZ4z2.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz4z2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EF8F7E-793C-4BC4-ADF4-2EACD595B87C}|DZ4z2.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EF8F7E-793C-4BC4-ADF4-2EACD595B87C}|DZ4z2.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz4z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EF8F7E-793C-4BC4-ADF4-2EACD595B87C}|DZ4z2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EF8F7E-793C-4BC4-ADF4-2EACD595B87C}|DZ4z2.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz4z2\\webelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EF8F7E-793C-4BC4-ADF4-2EACD595B87C}|DZ4z2.csproj|solutionrelative:webelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EF8F7E-793C-4BC4-ADF4-2EACD595B87C}|DZ4z2.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz4z2\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EF8F7E-793C-4BC4-ADF4-2EACD595B87C}|DZ4z2.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EF8F7E-793C-4BC4-ADF4-2EACD595B87C}|DZ4z2.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz4z2\\chromeloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EF8F7E-793C-4BC4-ADF4-2EACD595B87C}|DZ4z2.csproj|solutionrelative:chromeloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EF8F7E-793C-4BC4-ADF4-2EACD595B87C}|DZ4z2.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz4z2\\loginpagefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EF8F7E-793C-4BC4-ADF4-2EACD595B87C}|DZ4z2.csproj|solutionrelative:loginpagefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41EF8F7E-793C-4BC4-ADF4-2EACD595B87C}|DZ4z2.csproj|c:\\users\\ivan\\desktop\\faks\\rppoon\\dz4z2\\chromeloginpagefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41EF8F7E-793C-4BC4-ADF4-2EACD595B87C}|DZ4z2.csproj|solutionrelative:chromeloginpagefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ4z2\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ4z2\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:13:56.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChromeLoginPageFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ4z2\\ChromeLoginPageFactory.cs",
+              "RelativeDocumentMoniker": "ChromeLoginPageFactory.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ4z2\\ChromeLoginPageFactory.cs",
+              "RelativeToolTip": "ChromeLoginPageFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:13:14.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPageFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ4z2\\LoginPageFactory.cs",
+              "RelativeDocumentMoniker": "LoginPageFactory.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ4z2\\LoginPageFactory.cs",
+              "RelativeToolTip": "LoginPageFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:12:34.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChromeLoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ4z2\\ChromeLoginPage.cs",
+              "RelativeDocumentMoniker": "ChromeLoginPage.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ4z2\\ChromeLoginPage.cs",
+              "RelativeToolTip": "ChromeLoginPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:11:48.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ4z2\\LoginPage.cs",
+              "RelativeDocumentMoniker": "LoginPage.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ4z2\\LoginPage.cs",
+              "RelativeToolTip": "LoginPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:10:56.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebElement.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ4z2\\WebElement.cs",
+              "RelativeDocumentMoniker": "WebElement.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ4z2\\WebElement.cs",
+              "RelativeToolTip": "WebElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:10:04.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ4z2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\Faks\\RPPOON\\DZ4z2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:01:30.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
